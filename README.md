@@ -1,4 +1,4 @@
-**Development Client**
+# Development Client
 
 I am developing a client based on LiquidBounce.net, which features advanced functionality designed to prevent cheating. Currently, the client includes:
 

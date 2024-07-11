@@ -4,7 +4,7 @@ I am developing a client based on LiquidBounce.net, which features advanced func
 
 - **Velocity ​​for Polar**: causes your kb to be modified.
 - **Antiban for AstralMC**: guarantees undetectability and safe play on AstralMC servers.
-- **Speed ​​for AstralMC**: Increases movement speed on AstralMC servers.
+- **Speed ​​for AstralMC**: Increases movement speed on AstralMC server.
 - **Reach for Grim**: Extends the attack range on Grim servers.
 - **New rewind features and more**: Features innovative gameplay improvements and additional functionality.
 
